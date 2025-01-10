@@ -112,7 +112,7 @@
         }
 
         #sidebar-active:checked ~ .links-container {
-            right: 0;
+            right: 60%;
         }
 
         #sidebar-active:checked ~ #overlay {
